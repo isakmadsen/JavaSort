@@ -1,6 +1,6 @@
 package com.ClassExercise.Datagram;
 
-public class QuickSort implements SortMain {
+public class QuickSort extends SortMain {
 
     private int[] arr;
     private int begin;

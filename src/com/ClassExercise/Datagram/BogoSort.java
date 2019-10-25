@@ -2,7 +2,7 @@ package com.ClassExercise.Datagram;
 
 import java.util.Random;
 
-public class BogoSort implements SortMain{
+public class BogoSort extends SortMain{
 
     private static final Random generator = new Random();
 

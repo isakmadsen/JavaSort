@@ -1,8 +1,8 @@
 package com.ClassExercise.Datagram;
 
-public interface SortMain {
+public abstract class SortMain {
 
-    int[] sortStrategy(int arr[]);
+     abstract int[] sortStrategy(int arr[]);
 
 
 }

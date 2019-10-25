@@ -1,6 +1,6 @@
 package com.ClassExercise.Datagram;
 
-public class MergeSort implements SortMain {
+public class MergeSort extends SortMain {
 
     private int[] arr;
     private int n;

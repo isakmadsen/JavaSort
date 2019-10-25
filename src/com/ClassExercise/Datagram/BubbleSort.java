@@ -1,6 +1,6 @@
 package com.ClassExercise.Datagram;
 
-public class BubbleSort implements SortMain{
+public class BubbleSort extends SortMain{
     // Java program for implementation of Bubble Sort
 
     public int[] sortStrategy(int[] arr){
